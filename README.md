@@ -11,9 +11,7 @@ npm install mysql
 npm install inquirer
 node js
 
-Screenshots and video link below:
-
-
+Video link below:
 
 Here is a link to see the app in action:
 https://drive.google.com/file/d/1kppRoKQls1vGVA2cRIN4ICWfgaFFHhY2/view
