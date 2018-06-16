@@ -1,5 +1,5 @@
 CREATE DATABASE `bamazon` /*!40100 DEFAULT CHARACTER SET utf8 */;
-
+USE bamazon;
 
 CREATE TABLE `products` (
   `item_id` int(11) NOT NULL AUTO_INCREMENT,
